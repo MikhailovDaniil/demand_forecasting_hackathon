@@ -74,7 +74,7 @@ for d_id in tqdm(df_by_days_areas["delivery_area_id"].unique()):
         
         medians.append([d_id, median_7days])
 df_medians = pd.DataFrame(medians, columns = ["delivery_area_id", "median"])
-
+df_medians.to_csv("./proceeded/medians.csv", sep = ";", index = False)
 
 
 # преобразуем наши измерения в вектора для предсказаний
