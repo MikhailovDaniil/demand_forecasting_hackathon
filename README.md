@@ -6,7 +6,7 @@
 
 `orders_parners.py` - распределение количества заказов по часам + поиск оптимального количества доставщиков
 
-`simplex_method.py` - поиск оптимального распределения смен доставщиков
+`simplex_method.py` - поиск оптимального распределения доставщиков по сменам
 
 `./input/` - raw data from [slack/CMF2022/hackathon-workshifts](https://cmf2022.slack.com/archives/C042U48K9MZ/p1663411929528629)
 
