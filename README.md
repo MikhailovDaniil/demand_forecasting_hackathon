@@ -1,10 +1,11 @@
 # demand_forecasting_hackathon
 
+`preprocessing.py` - предобработка данных перед предсказанием спроса по дням
+
 `./input/` - raw data from [slack/CMF2022/hackathon-workshifts](https://cmf2022.slack.com/archives/C042U48K9MZ/p1663411929528629)
 
-`./proceeded/` - merged files from `./input`, also added a 'weekday' variable
+`./proceeded/` - промежуточные данные, получаемые и используемые в процессе решения
 
-`draft.ipynb` - transforming raw data, building some plots
 
 
 ## Предсказание количества заказов по дням
