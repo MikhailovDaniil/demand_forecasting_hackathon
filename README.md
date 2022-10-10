@@ -1,6 +1,7 @@
 # demand_forecasting_hackathon
 
 `preprocessing.py` - предобработка данных перед предсказанием спроса по дням
+`daily_demand.py` - предсказание спроса в каждом регионе по дням
 
 `./input/` - raw data from [slack/CMF2022/hackathon-workshifts](https://cmf2022.slack.com/archives/C042U48K9MZ/p1663411929528629)
 
