@@ -10,7 +10,7 @@
 
 `./input/` - raw data from [slack/CMF2022/hackathon-workshifts](https://cmf2022.slack.com/archives/C042U48K9MZ/p1663411929528629)
 
-`./proceeded/` - промежуточные данные, получаемые и используемые в процессе решения
+`./proceeded/` - промежуточные и конечные данные, получаемые и используемые в процессе решения
 
 
 
